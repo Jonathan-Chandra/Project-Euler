@@ -1,0 +1,15 @@
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/main.csproj.AssemblyReference.cache
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/main.AssemblyInfoInputs.cache
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/main.AssemblyInfo.cs
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/main.csproj.CoreCompileInputs.cache
+/home/runner/Project-Euler/bin/Debug/netcoreapp6.0/main
+/home/runner/Project-Euler/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/Project-Euler/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/Project-Euler/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/Project-Euler/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Project-Euler/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/main.dll
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/Project-Euler/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache
